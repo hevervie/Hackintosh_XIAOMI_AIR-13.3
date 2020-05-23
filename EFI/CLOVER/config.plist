@@ -161,7 +161,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>gfxrst=1 darkwake=0 dart=0</string>
+		<string>gfxrst=1 darkwake=0 dart=0 agdpmod=pikera</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>HibernationFixup</key>
